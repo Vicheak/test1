@@ -10,7 +10,6 @@
     <?php 
     
         echo "Welcome to git server!<br>"; 
-        echo "This is the change!"
             
     ?>
 </body>
