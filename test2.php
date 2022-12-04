@@ -10,6 +10,5 @@
     <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, provident harum sequi repellendus, consequuntur praesentium laudantium esse rerum ipsam, eligendi ullam hic qui corrupti laborum sed magnam beatae quis veniam!
     </p>
-    <h1>This is github server!</h1>
 </body>
 </html>
