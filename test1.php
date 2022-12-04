@@ -9,8 +9,9 @@
 <body>
     <?php 
     
-        echo "Welcome to git server!"; 
-
+        echo "Welcome to git server!<br>"; 
+        echo "This is the change!"
+            
     ?>
 </body>
 </html>
